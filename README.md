@@ -1,5 +1,25 @@
 **雨云官网：[https://www.rainyun.com/cdn_](https://www.rainyun.com/cdn_ "https://www.rainyun.com/cdn_")**
 **优惠码：cdn**
+
+现在加入雨云最高享受7折优惠
+
+==云服务器特惠: 
+
+1h1g 50m 15元/月
+
+2h2g 100m 22元/月
+
+(免备案,预装宝塔,支持windows)
+
+一键式操作，三分钟即可开始搭建网站！
+
+海外多线路选择，赠1000G高防CDN
+
+==
+
+年付更享7折优惠！支持7天无条件退订
+
+注册立即领取无门槛5元代金券
 ## 什么是雨云？
 <div style="color: rgb(110, 107, 123); font-family: "PingFang SC", HarmonyOS_Regular, "Helvetica Neue", "Microsoft YaHei", sans-serif; font-size: 14px; letter-spacing: 0.14px;">
 
