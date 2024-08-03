@@ -20,6 +20,10 @@
 年付更享7折优惠！支持7天无条件退订
 
 注册立即领取无门槛5元代金券
+
+新用户，首次使用，建议先点击试用，购买按钮旁边，1元试用一天，到期12小时删除，可以获得1元积分，积分可以提现
+
+购买之后，不要立即领取返利积分，可以七天无理由
 ## 什么是雨云？
 <div style="color: rgb(110, 107, 123); font-family: "PingFang SC", HarmonyOS_Regular, "Helvetica Neue", "Microsoft YaHei", sans-serif; font-size: 14px; letter-spacing: 0.14px;">
 
