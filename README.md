@@ -1,3 +1,5 @@
+**雨云官网：[https://www.rainyun.com/cdn_](https://www.rainyun.com/cdn_ "https://www.rainyun.com/cdn_")**
+**优惠码：cdn**
 ## 什么是雨云？
 <div style="color: rgb(110, 107, 123); font-family: "PingFang SC", HarmonyOS_Regular, "Helvetica Neue", "Microsoft YaHei", sans-serif; font-size: 14px; letter-spacing: 0.14px;">
 
